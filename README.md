@@ -21,7 +21,7 @@
 
 [<img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />](https://www.w3schools.com/js/default.asp)[<img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://reactjs.org)[<img alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  />](https://redux.js.org)
 
-#### Other Tools:
+##### Other Tools:
 [<img alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />](https://webpack.js.org/)[<img alt="PostCSS" width="26px" src="https://postcss.org/assets/postcss.83d93145.svg" />](https://postcss.org/)
 
 ##### Version Control:
