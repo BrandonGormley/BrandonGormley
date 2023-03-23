@@ -6,9 +6,9 @@
 
 ### 📍 Where to find me:
 
-[<img align="left " alt="linkedin" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="padding-right:10px;" />][twitter]
-[<img align="left" alt="Youtube" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" style="padding-right:10px;" />][youtube]
+[<img align="left " alt="linkedin" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+[<img align="left" alt="Youtube" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
 
 ### 🛠 Tools I love using:
 
@@ -18,7 +18,6 @@
 
 [<img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org)[<img alt="Jest" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />](https://jestjs.io)
 
-[instagram]: https://instagram.com/BrandonGormley
 [twitter]: https://twitter.com/brandongormley
 [youtube]: https://www.youtube.com/channel/UCOtIOhA9Y0a36ah9UUZ6RCw
 [linkedin]: https://www.linkedin.com/in/brandontgormley/
