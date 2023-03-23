@@ -6,10 +6,9 @@
 
 ### 📍 Where to find me:
 
-[<img align="left " alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.12.0/icons/linkedin.svg" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/instagram.svg" style="padding-right:10px;" />][instagram]
-[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.12.0/icons/twitter.svg" style="padding-right:10px;" />][twitter]
-[<img align="left" alt="Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.12.0/icons/youtube.svg" style="padding-right:10px;" />][youtube]
+[<img align="left " alt="linkedin" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="padding-right:10px;" />][twitter]
+[<img align="left" alt="Youtube" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" style="padding-right:10px;" />][youtube]
 
 ### 🛠 Tools I love using:
 
