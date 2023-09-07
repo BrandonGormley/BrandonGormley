@@ -16,7 +16,7 @@
 
 ### 💭 Become more familiar with:
 
-[<img alt="Jest" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />](https://jestjs.io)
+[<img alt="Jest" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />](https://jestjs.io)[<img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://www.python.org/)
 
 [twitter]: https://twitter.com/brandongormley
 [youtube]: https://www.youtube.com/channel/UCOtIOhA9Y0a36ah9UUZ6RCw
